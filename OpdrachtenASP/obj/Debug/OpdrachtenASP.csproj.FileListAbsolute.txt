@@ -1,0 +1,111 @@
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\OpdrachtenASP.dll.config
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\OpdrachtenASP.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\OpdrachtenASP.pdb
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\obj\Debug\OpdrachtenASP.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\obj\Debug\OpdrachtenASP.csproj.CopyComplete
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\obj\Debug\OpdrachtenASP.dll
+C:\Users\admin\Desktop\asp\OpdrachtenASP\OpdrachtenASP\obj\Debug\OpdrachtenASP.pdb
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\obj\Debug\OpdrachtenASP.csprojAssemblyReference.cache
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\obj\Debug\OpdrachtenASP.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\obj\Debug\OpdrachtenASP.pdb
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\OpdrachtenASP.dll.config
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\OpdrachtenASP.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\OpdrachtenASP.pdb
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csc.exe
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csc.exe.config
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csc.rsp
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csi.exe
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csi.exe.config
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\csi.rsp
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.AppContext.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Collections.Immutable.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Console.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.Compression.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.FileSystem.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.IO.Pipes.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Reflection.Metadata.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.AccessControl.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Claims.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.ValueTuple.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Xml.XPath.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\vbc.exe
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\vbc.exe.config
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\vbc.rsp
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\VBCSCompiler.exe
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\roslyn\VBCSCompiler.exe.config
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\obj\Debug\OpdrachtenASP.csproj.CopyComplete
+H:\Leerjaar 2\asp\OpdrachtenASP\OpdrachtenASP\obj\Debug\OpdrachtenASP.csprojAssemblyReference.cache
